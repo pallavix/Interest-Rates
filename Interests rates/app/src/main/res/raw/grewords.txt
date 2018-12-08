@@ -1,0 +1,4 @@
+SBI	7.0	
+ICICI	7.1	
+HDFC	7.2	
+OBC	7.3
